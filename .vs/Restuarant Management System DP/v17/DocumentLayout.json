@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|c:\\users\\aahil alwani\\desktop\\dp project\\restuarant-management-dp\\restuarant management system dp\\singleton\\databaseconnectionsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|solutionrelative:restuarant management system dp\\singleton\\databaseconnectionsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|c:\\users\\aahil alwani\\desktop\\dp project\\restuarant-management-dp\\restuarant management system dp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|solutionrelative:restuarant management system dp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\restuarant management system dp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|solutionrelative:restuarant management system dp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\restuarant management system dp\\singleton\\databaseconnectionsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|solutionrelative:restuarant management system dp\\singleton\\databaseconnectionsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +18,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "DatabaseConnectionSingleton.cs",
               "DocumentMoniker": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Singleton\\DatabaseConnectionSingleton.cs",
               "RelativeDocumentMoniker": "Restuarant Management System DP\\Singleton\\DatabaseConnectionSingleton.cs",
               "ToolTip": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Singleton\\DatabaseConnectionSingleton.cs",
               "RelativeToolTip": "Restuarant Management System DP\\Singleton\\DatabaseConnectionSingleton.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T09:26:08.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-04T09:26:08.48Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Form1.cs",
               "RelativeDocumentMoniker": "Restuarant Management System DP\\Form1.cs",
