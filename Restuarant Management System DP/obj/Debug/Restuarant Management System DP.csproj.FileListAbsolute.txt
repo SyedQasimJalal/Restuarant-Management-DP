@@ -7,3 +7,5 @@ C:\Users\AAHIL ALWANI\Desktop\DP Project\Restuarant-Management-DP\Restuarant Man
 C:\Users\AAHIL ALWANI\Desktop\DP Project\Restuarant-Management-DP\Restuarant Management System DP\obj\Debug\Restuarant Management System DP.csproj.CoreCompileInputs.cache
 C:\Users\AAHIL ALWANI\Desktop\DP Project\Restuarant-Management-DP\Restuarant Management System DP\obj\Debug\Restuarant Management System DP.exe
 C:\Users\AAHIL ALWANI\Desktop\DP Project\Restuarant-Management-DP\Restuarant Management System DP\obj\Debug\Restuarant Management System DP.pdb
+C:\Users\AAHIL ALWANI\Desktop\DP Project\Restuarant-Management-DP\Restuarant Management System DP\obj\Debug\Restuarant_Management_System_DP.Form1.resources
+C:\Users\AAHIL ALWANI\Desktop\DP Project\Restuarant-Management-DP\Restuarant Management System DP\obj\Debug\Restuarant_Management_System_DP.RegisterForm.resources
