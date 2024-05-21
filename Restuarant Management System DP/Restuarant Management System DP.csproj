@@ -49,6 +49,7 @@
     <Compile Include="Adapter\IDatabaseAdapter.cs" />
     <Compile Include="Adapter\SqlServerDatabaseAdapter.cs" />
     <Compile Include="Condition.cs" />
+    <Compile Include="Controllers\RegistrationController.cs" />
     <Compile Include="Food Builder.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
@@ -57,6 +58,7 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="FormManager.cs" />
+    <Compile Include="Model\Customer.cs" />
     <Compile Include="Payment Method.cs" />
     <Compile Include="Payment.cs" />
     <Compile Include="Program.cs" />
