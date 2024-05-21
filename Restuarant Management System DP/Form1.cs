@@ -35,7 +35,6 @@ namespace Restuarant_Management_System_DP
 
             if (isAuthenticated)
             {
-
                 formManager.OpenNewForm(this, registerForm);
             }
             else

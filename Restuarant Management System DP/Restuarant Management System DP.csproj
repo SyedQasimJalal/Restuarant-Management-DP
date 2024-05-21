@@ -46,6 +46,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Adapter\IDatabaseAdapter.cs" />
+    <Compile Include="Adapter\SqlServerDatabaseAdapter.cs" />
+    <Compile Include="Condition.cs" />
     <Compile Include="Food Builder.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
