@@ -17,8 +17,9 @@ namespace Restuarant_Management_System_DP.Singleton
             connection= new SqlConnection(connectionString);
         }
 
-        public static DatabaseConnectionSingleton getConnection()
+        public static SqlConnection getConnection()
         {
+            
             return new DatabaseConnectionSingleton("Data Source=AAHIL-ALWANI\\SQLEXPRESS01;Initial Catalog=RestaurantManagementDB;Integrated Security=True;Trust Server Certificate=True");
         }
     }

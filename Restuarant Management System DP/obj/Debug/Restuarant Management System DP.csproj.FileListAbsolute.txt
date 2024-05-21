@@ -9,3 +9,14 @@ C:\Users\AAHIL ALWANI\Desktop\DP Project\Restuarant-Management-DP\Restuarant Man
 C:\Users\AAHIL ALWANI\Desktop\DP Project\Restuarant-Management-DP\Restuarant Management System DP\obj\Debug\Restuarant Management System DP.pdb
 C:\Users\AAHIL ALWANI\Desktop\DP Project\Restuarant-Management-DP\Restuarant Management System DP\obj\Debug\Restuarant_Management_System_DP.Form1.resources
 C:\Users\AAHIL ALWANI\Desktop\DP Project\Restuarant-Management-DP\Restuarant Management System DP\obj\Debug\Restuarant_Management_System_DP.RegisterForm.resources
+C:\Users\qasim\OneDrive\Documents\GitHub\Restuarant-Management-DP\Restuarant Management System DP\bin\Debug\Restuarant Management System DP.exe.config
+C:\Users\qasim\OneDrive\Documents\GitHub\Restuarant-Management-DP\Restuarant Management System DP\bin\Debug\Restuarant Management System DP.exe
+C:\Users\qasim\OneDrive\Documents\GitHub\Restuarant-Management-DP\Restuarant Management System DP\bin\Debug\Restuarant Management System DP.pdb
+C:\Users\qasim\OneDrive\Documents\GitHub\Restuarant-Management-DP\Restuarant Management System DP\obj\Debug\Restuarant Management System DP.csproj.AssemblyReference.cache
+C:\Users\qasim\OneDrive\Documents\GitHub\Restuarant-Management-DP\Restuarant Management System DP\obj\Debug\Restuarant_Management_System_DP.Form1.resources
+C:\Users\qasim\OneDrive\Documents\GitHub\Restuarant-Management-DP\Restuarant Management System DP\obj\Debug\Restuarant_Management_System_DP.Properties.Resources.resources
+C:\Users\qasim\OneDrive\Documents\GitHub\Restuarant-Management-DP\Restuarant Management System DP\obj\Debug\Restuarant_Management_System_DP.RegisterForm.resources
+C:\Users\qasim\OneDrive\Documents\GitHub\Restuarant-Management-DP\Restuarant Management System DP\obj\Debug\Restuarant Management System DP.csproj.GenerateResource.cache
+C:\Users\qasim\OneDrive\Documents\GitHub\Restuarant-Management-DP\Restuarant Management System DP\obj\Debug\Restuarant Management System DP.csproj.CoreCompileInputs.cache
+C:\Users\qasim\OneDrive\Documents\GitHub\Restuarant-Management-DP\Restuarant Management System DP\obj\Debug\Restuarant Management System DP.exe
+C:\Users\qasim\OneDrive\Documents\GitHub\Restuarant-Management-DP\Restuarant Management System DP\obj\Debug\Restuarant Management System DP.pdb
