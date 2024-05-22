@@ -14,8 +14,8 @@ namespace Restuarant_Management_System_DP.Proxy
 
         public bool Authenticate(string username, string password)
         {
-            SqlConnection connection = DatabaseConnectionSingleton.getConnection();
-            sqlCommand = new SqlCommand("",)
+            //SqlConnection connection = DatabaseConnectionSingleton.getConnection();
+            //sqlCommand = new SqlCommand("",)
             return false;
         }
     }
