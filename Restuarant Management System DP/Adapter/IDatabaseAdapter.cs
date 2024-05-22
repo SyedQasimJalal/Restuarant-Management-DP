@@ -11,6 +11,6 @@ namespace Restuarant_Management_System_DP.Adapter
     {
         void selectTable(string tableName);
         void withColumns(string columns);
-        void where(string key, );
+        //void where(string key, );
     }
 }

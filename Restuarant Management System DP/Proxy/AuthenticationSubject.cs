@@ -1,4 +1,4 @@
-using Restuarant_Management_System_DP.Singleton;
+using Restaurant_Management_System_DP.Singleton;
 using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
@@ -10,15 +10,21 @@ namespace Restuarant_Management_System_DP.Proxy
 {
     internal class AuthenticationSubject : IAuthentication
     {
-        private DatabaseConnectionSingleton connectionSingleton= DatabaseConnectionSingleton.GetInstance();
-        SqlCommand sqlCommand;
+        private SqlConnection connection = DatabaseConnectionSingleton.GetInstance().Connection;
+        private SqlDataAdapter adapter;
 
-        public bool Authenticate(string username, string password)
+        public bool Authenticate(string email, string password)
         {
-            SqlConnection connection= connectionSingleton.Connection;
             connection.Open();
-            SqlConnection connection = DatabaseConnectionSingleton.getConnection();
-            sqlCommand = new SqlCommand("",)
+
+            adapter = new SqlDataAdapter("select email, password from customer where email='"+email+"' and password='"+password+"'", connection);
+            //SqlDataReader reader= new SqlDataReader("");
+
+
+            //if(res>0)
+            //{
+            //    return true;
+            //}
             return false;
         }
     }

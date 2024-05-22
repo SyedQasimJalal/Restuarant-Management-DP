@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace Restuarant_Management_System_DP.Adapter
 {
-    internal class SqlServerDatabaseAdapter : IDatabaseAdapter
+    internal class SqlServerDatabaseAdapter
     {
         private DatabaseConnectionSingleton databaseConnection= DatabaseConnectionSingleton.GetInstance();
         private SqlConnection connection;
