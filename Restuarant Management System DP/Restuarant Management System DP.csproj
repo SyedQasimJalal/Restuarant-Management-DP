@@ -46,6 +46,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Abstract Factory\Deal Factories\ConcreteDeal3Factory.cs" />
+    <Compile Include="Abstract Factory\IAbstractBeverageProduct.cs" />
+    <Compile Include="Abstract Factory\IAbstractPizzaProduct.cs" />
+    <Compile Include="Abstract Factory\Concrete Beverages\ConcreteLemonLime.cs" />
+    <Compile Include="Abstract Factory\Deal Factories\ConcreteDeal1Factory.cs" />
+    <Compile Include="Abstract Factory\Concrete Pizzas\ConcreteCheesePizza.cs" />
+    <Compile Include="Abstract Factory\Concrete Pizzas\ConcreteChickenTikka.cs" />
+    <Compile Include="Abstract Factory\Concrete Pizzas\ConcretePepproniPizza.cs" />
+    <Compile Include="Abstract Factory\Concrete Beverages\ConcreteFreshOrangeJuice.cs" />
+    <Compile Include="Abstract Factory\Deal Factories\ConcreteDeal2Factory.cs" />
+    <Compile Include="Abstract Factory\IOrderAbstractFactory.cs" />
     <Compile Include="Adapter\IDatabaseAdapter.cs" />
     <Compile Include="Adapter\SqlServerDatabaseAdapter.cs" />
     <Compile Include="Condition.cs" />
@@ -69,7 +80,6 @@
     <Compile Include="PaymentWindow.Designer.cs">
       <DependentUpon>PaymentWindow.cs</DependentUpon>
     </Compile>
-    <Compile Include="Builder\Pizza.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -77,7 +87,6 @@
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="FormManager.cs" />
-    <Compile Include="Builder\Pizza_Builder.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Proxy\AuthenticationSubject.cs" />
@@ -137,5 +146,6 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
