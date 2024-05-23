@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Adapter\\SqlServerDatabaseAdapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|solutionrelative:Restuarant Management System DP\\Adapter\\SqlServerDatabaseAdapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|c:\\users\\aahil alwani\\desktop\\dp project\\restuarant-management-dp\\restuarant management system dp\\adapter\\sqlserverdatabaseadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|solutionrelative:restuarant management system dp\\adapter\\sqlserverdatabaseadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|c:\\users\\aahil alwani\\desktop\\dp project\\restuarant-management-dp\\restuarant management system dp\\proxy\\authenticationsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\restuarant management system dp\\proxy\\authenticationsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|solutionrelative:restuarant management system dp\\proxy\\authenticationsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -58,8 +58,7 @@
               "RelativeToolTip": "Restuarant Management System DP\\Proxy\\AuthenticationSubject.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T18:27:46.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-18T18:27:46.059Z"
             },
             {
               "$type": "Document",
@@ -93,7 +92,7 @@
               "RelativeDocumentMoniker": "Restuarant Management System DP\\Adapter\\SqlServerDatabaseAdapter.cs",
               "ToolTip": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Adapter\\SqlServerDatabaseAdapter.cs",
               "RelativeToolTip": "Restuarant Management System DP\\Adapter\\SqlServerDatabaseAdapter.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAABsAAAAkAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwBUAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-18T20:26:35.668Z",
               "EditorCaption": ""
