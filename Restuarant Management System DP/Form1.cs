@@ -41,6 +41,8 @@ namespace Restuarant_Management_System_DP
             {
                 MessageBox.Show("Login Failed!");
             }
+
+            Application.Run(new Menu());
         }
 
         private void registerLink_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
