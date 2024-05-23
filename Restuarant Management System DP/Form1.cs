@@ -54,5 +54,10 @@ namespace Restuarant_Management_System_DP
         {
 
         }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
