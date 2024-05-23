@@ -9,6 +9,7 @@ email varchar(50) not null,
 password varchar(100) not null,
 );
 
+
 create table food_type(
 id int primary key identity(1,1),
 food_type varchar(20)
@@ -34,4 +35,15 @@ o_id int primary key identity(1,1),
 total_price float,
 );
 
+
+create table customer_type(
+id int primary key identity(1,1),
+is_premium int not null
+);
+
+insert into customer_type(is_premium) values(0),(1);
+alter table customer add is_premium int foreign key references customer_type(id) on delete cascade on update cascade;
+
+
+select * from customer
 

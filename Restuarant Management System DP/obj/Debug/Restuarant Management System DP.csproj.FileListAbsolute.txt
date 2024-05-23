@@ -20,3 +20,5 @@ C:\Users\qasim\OneDrive\Documents\GitHub\Restuarant-Management-DP\Restuarant Man
 C:\Users\qasim\OneDrive\Documents\GitHub\Restuarant-Management-DP\Restuarant Management System DP\obj\Debug\Restuarant Management System DP.csproj.CoreCompileInputs.cache
 C:\Users\qasim\OneDrive\Documents\GitHub\Restuarant-Management-DP\Restuarant Management System DP\obj\Debug\Restuarant Management System DP.exe
 C:\Users\qasim\OneDrive\Documents\GitHub\Restuarant-Management-DP\Restuarant Management System DP\obj\Debug\Restuarant Management System DP.pdb
+C:\Users\qasim\OneDrive\Documents\GitHub\Restuarant-Management-DP\Restuarant Management System DP\obj\Debug\Restuarant_Management_System_DP.Menu.resources
+C:\Users\AAHIL ALWANI\Desktop\DP Project\Restuarant-Management-DP\Restuarant Management System DP\obj\Debug\Restuarant_Management_System_DP.Menu.resources

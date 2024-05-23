@@ -15,14 +15,14 @@ namespace Restuarant_Management_System_DP
     public partial class Form1 : Form
     {
 
-        RegisterForm registerForm;
+        Menu menu;
         FormManager formManager;
         private IAuthentication _authentication;
 
         public Form1()
         {
             InitializeComponent();
-            registerForm= new RegisterForm();
+            menu= new Menu();
             formManager= new FormManager();
         }
 
@@ -30,24 +30,24 @@ namespace Restuarant_Management_System_DP
         {
             string username = usernameBox.Text;
             string password = passwordBox.Text;
-
+            _authentication= new AuthenticationProxy();
             bool isAuthenticated = _authentication.Authenticate(username, password);
 
             if (isAuthenticated)
             {
-                formManager.OpenNewForm(this, registerForm);
+                formManager.OpenNewForm(this, menu);
             }
             else
             {
                 MessageBox.Show("Login Failed!");
             }
 
-            Application.Run(new Menu());
+            //Application.Run(new Menu());
         }
 
         private void registerLink_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            formManager.OpenNewForm(this, registerForm);
+            formManager.OpenNewForm(this, menu);
         }
 
         private void Form1_Load(object sender, EventArgs e)

@@ -1,4 +1,4 @@
-﻿using Restuarant_Management_System_DP.Controllers;
+﻿using Restuarant_Management_System_DP.Factory_Method;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -14,7 +14,6 @@ namespace Restuarant_Management_System_DP
     public partial class RegisterForm : Form
     {
 
-        private RegistrationController registrationController;
         public RegisterForm()
         {
             InitializeComponent();
@@ -27,17 +26,38 @@ namespace Restuarant_Management_System_DP
 
         private void button1_Click(object sender, EventArgs e)
         {
-            registrationController = new RegistrationController();
-            bool isRegistered= registrationController.RegisterUser(nameTxt.Text, emailTxt.Text, passTxt.Text, confirmPassTxt.Text);
+            Creator customerCreator;
+            bool isRegistered = false;
+            if (regularRadioBtn.Checked == true)
+            {
+                customerCreator = new ConcreteRegularCustomerCreator();
+                isRegistered = customerCreator.Register(nameTxt.Text, emailTxt.Text, passTxt.Text);
+                register(isRegistered);
+            }
+            else if(premiumRadioButton.Checked == true) {
+                customerCreator = new ConcretePremiumCustomerCreator();
+                isRegistered = customerCreator.Register(nameTxt.Text, emailTxt.Text, passTxt.Text);
+                register(isRegistered);
+            }
+            else
+            {
+                MessageBox.Show("Please fill whether you want to be a regular or premium!!");
+            }
+            
+        }
+
+        private void register(bool isRegistered)
+        {
             if (isRegistered)
             {
+                MessageBox.Show("Registered Successfully!!");
                 Form1 loginForm = new Form1();
                 loginForm.Show();
                 this.Hide();
             }
             else
             {
-                MessageBox.Show("incorrect password");
+                MessageBox.Show("Not registered");
             }
         }
     }

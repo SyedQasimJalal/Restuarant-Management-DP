@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Restuarant_Management_System_DP.Proxy
 {
-    internal class ProxyAuthenticationClient : IAuthentication
+    internal class AuthenticationProxy : IAuthentication
     {
         private IAuthentication _realAuthentication;
 

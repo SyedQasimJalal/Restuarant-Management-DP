@@ -25,7 +25,7 @@ namespace Restaurant_Management_System_DP.Singleton
             if (_instance == null)
             {
                 // Create the instance if it doesn't exist
-                _instance = new DatabaseConnectionSingleton("\"Data Source=AAHIL-ALWANI\\SQLEXPRESS01;Initial Catalog=RestaurantManagementDB;Integrated Security=True;Trust Server Certificate=True\"");
+                _instance = new DatabaseConnectionSingleton(@"Data Source=AAHIL-ALWANI\SQLEXPRESS01;Initial Catalog=RestaurantManagementDB;Integrated Security=True");
             }
 
             // Return the existing instance

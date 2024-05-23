@@ -11,21 +11,15 @@ namespace Restuarant_Management_System_DP.Proxy
     internal class AuthenticationSubject : IAuthentication
     {
         private SqlConnection connection = DatabaseConnectionSingleton.GetInstance().Connection;
-        private SqlDataAdapter adapter;
+        private SqlCommand command;
 
         public bool Authenticate(string email, string password)
         {
-            connection.Open();
+            //connection.Open();
 
-            adapter = new SqlDataAdapter("select email, password from customer where email='"+email+"' and password='"+password+"'", connection);
-            //SqlDataReader reader= new SqlDataReader("");
-
-
-            //if(res>0)
-            //{
-            //    return true;
-            //}
-            return false;
+            command = new SqlCommand("select count(*) from customer where email='"+email+"' and password='"+password+"'", connection);
+            int result= (int)command.ExecuteScalar();
+            return result>0;
         }
     }
 }
