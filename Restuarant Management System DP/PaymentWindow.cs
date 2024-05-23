@@ -16,5 +16,10 @@ namespace Restuarant_Management_System_DP
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
