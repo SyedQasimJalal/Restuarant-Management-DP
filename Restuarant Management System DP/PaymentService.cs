@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace Restuarant_Management_System_DP
 {
-    interface Payment
+    class PaymentService
     {
-        void Pay();
     }
 }

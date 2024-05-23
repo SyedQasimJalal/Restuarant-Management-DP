@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|c:\\users\\aahil alwani\\desktop\\dp project\\restuarant-management-dp\\restuarant management system dp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|solutionrelative:restuarant management system dp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|c:\\users\\aahil alwani\\desktop\\dp project\\restuarant-management-dp\\restuarant management system dp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|solutionrelative:restuarant management system dp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Adapter\\SqlServerDatabaseAdapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|solutionrelative:Restuarant Management System DP\\Adapter\\SqlServerDatabaseAdapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|c:\\users\\aahil alwani\\desktop\\dp project\\restuarant-management-dp\\restuarant management system dp\\proxy\\authenticationsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|solutionrelative:restuarant management system dp\\proxy\\authenticationsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|c:\\users\\aahil alwani\\desktop\\dp project\\restuarant-management-dp\\restuarant management system dp\\proxy\\proxyauthenticationclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|solutionrelative:restuarant management system dp\\proxy\\proxyauthenticationclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Singleton\\DatabaseConnectionSingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|solutionrelative:Restuarant Management System DP\\Singleton\\DatabaseConnectionSingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Adapter\\IDatabaseAdapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|solutionrelative:Restuarant Management System DP\\Adapter\\IDatabaseAdapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\restuarant management system dp\\condition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|solutionrelative:restuarant management system dp\\condition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|solutionrelative:Restuarant Management System DP\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Proxy\\ProxyAuthenticationClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|solutionrelative:Restuarant Management System DP\\Proxy\\ProxyAuthenticationClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\restuarant management system dp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|solutionrelative:restuarant management system dp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Proxy\\IAuthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|solutionrelative:Restuarant Management System DP\\Proxy\\IAuthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +46,116 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\.gitignore",
-              "RelativeDocumentMoniker": ".gitignore",
-              "ToolTip": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\.gitignore",
-              "RelativeToolTip": ".gitignore",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-05-18T18:14:36.044Z",
+              "DocumentIndex": 1,
+              "Title": "AuthenticationSubject.cs",
+              "DocumentMoniker": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Proxy\\AuthenticationSubject.cs",
+              "RelativeDocumentMoniker": "Restuarant Management System DP\\Proxy\\AuthenticationSubject.cs",
+              "ToolTip": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Proxy\\AuthenticationSubject.cs",
+              "RelativeToolTip": "Restuarant Management System DP\\Proxy\\AuthenticationSubject.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T18:27:46.059Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "IDatabaseAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Adapter\\IDatabaseAdapter.cs",
+              "RelativeDocumentMoniker": "Restuarant Management System DP\\Adapter\\IDatabaseAdapter.cs",
+              "ToolTip": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Adapter\\IDatabaseAdapter.cs",
+              "RelativeToolTip": "Restuarant Management System DP\\Adapter\\IDatabaseAdapter.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAowA0AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T19:36:59.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseConnectionSingleton.cs",
+              "DocumentMoniker": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Singleton\\DatabaseConnectionSingleton.cs",
+              "RelativeDocumentMoniker": "Restuarant Management System DP\\Singleton\\DatabaseConnectionSingleton.cs",
+              "ToolTip": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Singleton\\DatabaseConnectionSingleton.cs",
+              "RelativeToolTip": "Restuarant Management System DP\\Singleton\\DatabaseConnectionSingleton.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T18:29:03.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SqlServerDatabaseAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Adapter\\SqlServerDatabaseAdapter.cs",
+              "RelativeDocumentMoniker": "Restuarant Management System DP\\Adapter\\SqlServerDatabaseAdapter.cs",
+              "ToolTip": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Adapter\\SqlServerDatabaseAdapter.cs",
+              "RelativeToolTip": "Restuarant Management System DP\\Adapter\\SqlServerDatabaseAdapter.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:26:35.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProxyAuthenticationClient.cs",
+              "DocumentMoniker": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Proxy\\ProxyAuthenticationClient.cs",
+              "RelativeDocumentMoniker": "Restuarant Management System DP\\Proxy\\ProxyAuthenticationClient.cs",
+              "ToolTip": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Proxy\\ProxyAuthenticationClient.cs",
+              "RelativeToolTip": "Restuarant Management System DP\\Proxy\\ProxyAuthenticationClient.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T18:04:20.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Condition.cs",
+              "DocumentMoniker": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Condition.cs",
+              "RelativeDocumentMoniker": "Restuarant Management System DP\\Condition.cs",
+              "ToolTip": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Condition.cs",
+              "RelativeToolTip": "Restuarant Management System DP\\Condition.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T20:52:59.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Form1.cs",
               "RelativeDocumentMoniker": "Restuarant Management System DP\\Form1.cs",
               "ToolTip": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Form1.cs",
               "RelativeToolTip": "Restuarant Management System DP\\Form1.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAowCUAAAAAAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAQwB8AAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T18:06:51.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-18T18:28:33.388Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Form1.cs",
               "RelativeDocumentMoniker": "Restuarant Management System DP\\Form1.cs",
               "ToolTip": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Form1.cs [Design]",
               "RelativeToolTip": "Restuarant Management System DP\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T18:06:44.98Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-18T18:28:31.648Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProxyAuthenticationClient.cs",
-              "DocumentMoniker": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Proxy\\ProxyAuthenticationClient.cs",
-              "RelativeDocumentMoniker": "Restuarant Management System DP\\Proxy\\ProxyAuthenticationClient.cs",
-              "ToolTip": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Proxy\\ProxyAuthenticationClient.cs",
-              "RelativeToolTip": "Restuarant Management System DP\\Proxy\\ProxyAuthenticationClient.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAIwAsAAAAAAAAA",
+              "DocumentIndex": 8,
+              "Title": "IAuthentication.cs",
+              "DocumentMoniker": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Proxy\\IAuthentication.cs",
+              "RelativeDocumentMoniker": "Restuarant Management System DP\\Proxy\\IAuthentication.cs",
+              "ToolTip": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Proxy\\IAuthentication.cs",
+              "RelativeToolTip": "Restuarant Management System DP\\Proxy\\IAuthentication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T18:04:20.877Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuthenticationSubject.cs",
-              "DocumentMoniker": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Proxy\\AuthenticationSubject.cs",
-              "RelativeDocumentMoniker": "Restuarant Management System DP\\Proxy\\AuthenticationSubject.cs",
-              "ToolTip": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Proxy\\AuthenticationSubject.cs",
-              "RelativeToolTip": "Restuarant Management System DP\\Proxy\\AuthenticationSubject.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-18T18:02:57.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-18T18:28:09.854Z"
             }
           ]
         }

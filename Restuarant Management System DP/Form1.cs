@@ -35,13 +35,14 @@ namespace Restuarant_Management_System_DP
 
             if (isAuthenticated)
             {
-
                 formManager.OpenNewForm(this, registerForm);
             }
             else
             {
                 MessageBox.Show("Login Failed!");
             }
+
+            Application.Run(new Menu());
         }
 
         private void registerLink_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)

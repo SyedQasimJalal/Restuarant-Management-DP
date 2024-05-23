@@ -1,29 +1,52 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Data.SqlClient;
 using System.Data;
 
-namespace Restuarant_Management_System_DP.Singleton
+namespace Restaurant_Management_System_DP.Singleton
 {
     public class DatabaseConnectionSingleton
     {
-        private static SqlConnection connection;
+        // Static variable to hold the single instance of the class
+        private static DatabaseConnectionSingleton _instance = null;
 
-        private DatabaseConnectionSingleton(String connectionString)
+        // Private constructor to prevent instantiation
+        private DatabaseConnectionSingleton(string connectionString)
         {
-            connection= new SqlConnection(connectionString);
+            ConnectionString = connectionString;
         }
 
-        public static SqlConnection getConnection()
+        // Public property to access the connection string
+        public string ConnectionString { get; private set; }
+
+        // Method to get the single instance of the class
+        public static DatabaseConnectionSingleton GetInstance()
         {
-            if(connection== null)
+            // Check if the instance has been created
+            if (_instance == null)
             {
-                new DatabaseConnectionSingleton("Data Source=AAHIL-ALWANI\\SQLEXPRESS01;Initial Catalog=RestaurantManagementDB;Integrated Security=True;Trust Server Certificate=True");
+                // Create the instance if it doesn't exist
+                _instance = new DatabaseConnectionSingleton("\"Data Source=AAHIL-ALWANI\\SQLEXPRESS01;Initial Catalog=RestaurantManagementDB;Integrated Security=True;Trust Server Certificate=True\"");
             }
-            return connection;
+
+            // Return the existing instance
+            return _instance;
         }
+
+        // Property to get the SQL connection
+        public SqlConnection Connection
+        {
+            get
+            {
+                if (connection == null || connection.State != ConnectionState.Open)
+                {
+                    connection = new SqlConnection(ConnectionString);
+                    connection.Open();
+                }
+                return connection;
+            }
+        }
+
+        // Private field for the SQL connection
+        private SqlConnection connection;
     }
 }
