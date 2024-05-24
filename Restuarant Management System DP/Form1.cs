@@ -47,7 +47,7 @@ namespace Restuarant_Management_System_DP
 
         private void registerLink_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            formManager.OpenNewForm(this, menu);
+            formManager.OpenNewForm(this, new RegisterForm());
         }
 
         private void Form1_Load(object sender, EventArgs e)

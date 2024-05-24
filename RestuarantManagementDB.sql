@@ -15,6 +15,8 @@ id int primary key identity(1,1),
 food_type varchar(20)
 );
 
+insert into food_type(food_type) values('Pizza'),('Beverage');
+
 create table food(
 food_id int primary key identity(1,1),
 food_name varchar(30),
@@ -23,12 +25,15 @@ foreign key(food_type) references food_type(id) on delete cascade on update casc
 price float
 );
 
+
 create table customer_order(
 cus_ord_id int primary key identity(1,1),
 customer_id int,
 order_id int,
 foreign key (customer_id) references customer(customer_id) on delete cascade on update cascade,
 );
+
+alter table customer_order add foreign key (order_id) references [order](o_id) on delete cascade on update cascade;
 
 create table [order](
 o_id int primary key identity(1,1),
@@ -45,5 +50,6 @@ insert into customer_type(is_premium) values(0),(1);
 alter table customer add is_premium int foreign key references customer_type(id) on delete cascade on update cascade;
 
 
-select * from customer
+select * from customer_type;
+
 

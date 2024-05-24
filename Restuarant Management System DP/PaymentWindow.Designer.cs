@@ -29,16 +29,28 @@ namespace Restuarant_Management_System_DP
         /// </summary>
         private void InitializeComponent()
         {
+            System.Windows.Forms.Button paypal_btn;
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(PaymentWindow));
             this.label1 = new System.Windows.Forms.Label();
-            this.Cheese_pizza = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
+            this.credit_card = new System.Windows.Forms.Button();
+            this.cash = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
+            paypal_btn = new System.Windows.Forms.Button();
             this.SuspendLayout();
+            // 
+            // paypal_btn
+            // 
+            paypal_btn.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            paypal_btn.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("paypal_btn.BackgroundImage")));
+            paypal_btn.Location = new System.Drawing.Point(216, 133);
+            paypal_btn.Name = "paypal_btn";
+            paypal_btn.Size = new System.Drawing.Size(178, 109);
+            paypal_btn.TabIndex = 1;
+            paypal_btn.UseVisualStyleBackColor = true;
+            paypal_btn.Click += new System.EventHandler(this.paypal_btn_Click);
             // 
             // label1
             // 
@@ -51,36 +63,27 @@ namespace Restuarant_Management_System_DP
             this.label1.TabIndex = 0;
             this.label1.Text = "Payment:";
             // 
-            // Cheese_pizza
+            // credit_card
             // 
-            this.Cheese_pizza.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.Cheese_pizza.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("Cheese_pizza.BackgroundImage")));
-            this.Cheese_pizza.Location = new System.Drawing.Point(216, 133);
-            this.Cheese_pizza.Name = "Cheese_pizza";
-            this.Cheese_pizza.Size = new System.Drawing.Size(178, 109);
-            this.Cheese_pizza.TabIndex = 1;
-            this.Cheese_pizza.UseVisualStyleBackColor = true;
+            this.credit_card.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.credit_card.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("credit_card.BackgroundImage")));
+            this.credit_card.Location = new System.Drawing.Point(423, 133);
+            this.credit_card.Name = "credit_card";
+            this.credit_card.Size = new System.Drawing.Size(178, 109);
+            this.credit_card.TabIndex = 2;
+            this.credit_card.UseVisualStyleBackColor = true;
+            this.credit_card.Click += new System.EventHandler(this.button1_Click);
             // 
-            // button1
+            // cash
             // 
-            this.button1.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.button1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button1.BackgroundImage")));
-            this.button1.Location = new System.Drawing.Point(423, 133);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(178, 109);
-            this.button1.TabIndex = 2;
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
-            // 
-            // button2
-            // 
-            this.button2.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.button2.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button2.BackgroundImage")));
-            this.button2.Location = new System.Drawing.Point(631, 133);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(178, 109);
-            this.button2.TabIndex = 3;
-            this.button2.UseVisualStyleBackColor = true;
+            this.cash.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.cash.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("cash.BackgroundImage")));
+            this.cash.Location = new System.Drawing.Point(631, 133);
+            this.cash.Name = "cash";
+            this.cash.Size = new System.Drawing.Size(178, 109);
+            this.cash.TabIndex = 3;
+            this.cash.UseVisualStyleBackColor = true;
+            this.cash.Click += new System.EventHandler(this.cash_Click);
             // 
             // label2
             // 
@@ -100,7 +103,7 @@ namespace Restuarant_Management_System_DP
             this.label3.Font = new System.Drawing.Font("MS Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(278, 98);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(62, 16);
+            this.label3.Size = new System.Drawing.Size(61, 16);
             this.label3.TabIndex = 5;
             this.label3.Text = "PayPal";
             // 
@@ -111,7 +114,7 @@ namespace Restuarant_Management_System_DP
             this.label6.Font = new System.Drawing.Font("MS Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.Location = new System.Drawing.Point(430, 98);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(161, 16);
+            this.label6.Size = new System.Drawing.Size(160, 16);
             this.label6.TabIndex = 8;
             this.label6.Text = "Credit/Debit card";
             // 
@@ -122,7 +125,7 @@ namespace Restuarant_Management_System_DP
             this.label7.Font = new System.Drawing.Font("MS Gothic", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label7.Location = new System.Drawing.Point(645, 98);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(152, 16);
+            this.label7.Size = new System.Drawing.Size(151, 16);
             this.label7.TabIndex = 9;
             this.label7.Text = "Cash On Delivery";
             // 
@@ -136,9 +139,9 @@ namespace Restuarant_Management_System_DP
             this.Controls.Add(this.label6);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.button2);
-            this.Controls.Add(this.button1);
-            this.Controls.Add(this.Cheese_pizza);
+            this.Controls.Add(this.cash);
+            this.Controls.Add(this.credit_card);
+            this.Controls.Add(paypal_btn);
             this.Controls.Add(this.label1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "PaymentWindow";
@@ -151,12 +154,11 @@ namespace Restuarant_Management_System_DP
         #endregion
 
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Button Cheese_pizza;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button cash;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.Button credit_card;
     }
 }

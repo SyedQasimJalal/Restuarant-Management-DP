@@ -57,9 +57,6 @@
     <Compile Include="Abstract Factory\Concrete Beverages\ConcreteFreshOrangeJuice.cs" />
     <Compile Include="Abstract Factory\Deal Factories\ConcreteDeal2Factory.cs" />
     <Compile Include="Abstract Factory\IOrderAbstractFactory.cs" />
-    <Compile Include="Adapter\IDatabaseAdapter.cs" />
-    <Compile Include="Adapter\SqlServerDatabaseAdapter.cs" />
-    <Compile Include="Condition.cs" />
     <Compile Include="CreditCard.cs" />
     <Compile Include="Factory Method\ConcretePremiumCustomer.cs" />
     <Compile Include="Factory Method\ConcretePremiumCustomerCreator.cs" />
@@ -67,7 +64,9 @@
     <Compile Include="Factory Method\ConcreteRegularCustomerCreator.cs" />
     <Compile Include="Factory Method\Creator.cs" />
     <Compile Include="Factory Method\ICustomerRegistration.cs" />
-    <Compile Include="IPaymentStrategy.cs" />
+    <Compile Include="Strategy\CashPayment.cs" />
+    <Compile Include="Strategy\CreditCardPayment.cs" />
+    <Compile Include="Strategy\IPaymentStrategy.cs" />
     <Compile Include="Menu.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -104,6 +103,8 @@
       <DependentUpon>RestaurantManagementDBDataSet.xsd</DependentUpon>
     </Compile>
     <Compile Include="Singleton\DatabaseConnectionSingleton.cs" />
+    <Compile Include="Strategy\PaymentContext.cs" />
+    <Compile Include="Strategy\PaypalPayment.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>

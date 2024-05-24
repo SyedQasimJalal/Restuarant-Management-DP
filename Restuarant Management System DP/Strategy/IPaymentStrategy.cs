@@ -6,12 +6,9 @@ using System.Threading.Tasks;
 
 namespace Restuarant_Management_System_DP
 {
-    internal enum Condition
+    public interface IPaymentStrategy
     {
-        EQUALS,
-        GREATER_THAN_EQUAL_TO,
-        LESS_THAN_EQUAL_TO,
-        LESS_THAN,
-        GREATER_THAN,
+        string Pay(decimal amount);
     }
+
 }

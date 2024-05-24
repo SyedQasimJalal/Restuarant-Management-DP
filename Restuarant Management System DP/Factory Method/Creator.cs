@@ -8,7 +8,7 @@ namespace Restuarant_Management_System_DP.Factory_Method
 {
     internal abstract class Creator
     {
-        private ICustomerRegistration customerRegistration;
+        
         public bool Register(string name, string email, string password)
         {
             ICustomerRegistration customerRegistration = CreateCustomer();
