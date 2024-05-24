@@ -26,7 +26,7 @@ namespace Restuarant_Management_System_DP
             context = new PaymentContext();
             strategy = new CreditCardPayment("","","","");
             context.SetPaymentStrategy(strategy);
-            MessageBox.Show(context.PayBill(100));
+            MessageBox.Show(context.PayBill(1300));
         }
 
         private void paypal_btn_Click(object sender, EventArgs e)
@@ -34,7 +34,7 @@ namespace Restuarant_Management_System_DP
             context = new PaymentContext();
             strategy = new PayPalPayment("");
             context.SetPaymentStrategy(strategy);
-            MessageBox.Show(context.PayBill(100));
+            MessageBox.Show(context.PayBill(1400));
         }
 
         private void cash_Click(object sender, EventArgs e)
@@ -42,7 +42,7 @@ namespace Restuarant_Management_System_DP
             context = new PaymentContext();
             strategy = new CashPayment();
             context.SetPaymentStrategy(strategy);
-            MessageBox.Show(context.PayBill(100));
+            MessageBox.Show(context.PayBill(1500));
         }
     }
 }
