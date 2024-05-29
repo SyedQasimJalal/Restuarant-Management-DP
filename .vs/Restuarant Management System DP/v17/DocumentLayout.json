@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|c:\\users\\aahil alwani\\desktop\\dp project\\restuarant-management-dp\\restuarant management system dp\\proxy\\authenticationsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|solutionrelative:restuarant management system dp\\proxy\\authenticationsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|c:\\users\\aahil alwani\\desktop\\dp project\\restuarant-management-dp\\restuarant management system dp\\proxy\\authenticationproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|solutionrelative:restuarant management system dp\\proxy\\authenticationproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\restuarant management system dp\\abstract factory\\deal factories\\concretedeal2factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|solutionrelative:restuarant management system dp\\abstract factory\\deal factories\\concretedeal2factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|c:\\users\\aahil alwani\\desktop\\dp project\\restuarant-management-dp\\restuarant management system dp\\singleton\\databaseconnectionsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|solutionrelative:restuarant management system dp\\singleton\\databaseconnectionsingleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -93,10 +105,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\restuarant management system dp\\abstract factory\\deal factories\\concretedeal3factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|solutionrelative:restuarant management system dp\\abstract factory\\deal factories\\concretedeal3factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\restuarant management system dp\\abstract factory\\deal factories\\concretedeal2factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B16818C8-64D7-4508-B795-8785F172454A}|Restuarant Management System DP\\Restuarant Management System DP.csproj|solutionrelative:restuarant management system dp\\abstract factory\\deal factories\\concretedeal2factory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -111,32 +119,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AuthenticationSubject.cs",
+              "DocumentMoniker": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Proxy\\AuthenticationSubject.cs",
+              "RelativeDocumentMoniker": "Restuarant Management System DP\\Proxy\\AuthenticationSubject.cs",
+              "ToolTip": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Proxy\\AuthenticationSubject.cs",
+              "RelativeToolTip": "Restuarant Management System DP\\Proxy\\AuthenticationSubject.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:33:25.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthenticationProxy.cs",
+              "DocumentMoniker": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Proxy\\AuthenticationProxy.cs",
+              "RelativeDocumentMoniker": "Restuarant Management System DP\\Proxy\\AuthenticationProxy.cs",
+              "ToolTip": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Proxy\\AuthenticationProxy.cs",
+              "RelativeToolTip": "Restuarant Management System DP\\Proxy\\AuthenticationProxy.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T06:33:21.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "DatabaseConnectionSingleton.cs",
               "DocumentMoniker": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Singleton\\DatabaseConnectionSingleton.cs",
               "RelativeDocumentMoniker": "Restuarant Management System DP\\Singleton\\DatabaseConnectionSingleton.cs",
               "ToolTip": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Singleton\\DatabaseConnectionSingleton.cs",
               "RelativeToolTip": "Restuarant Management System DP\\Singleton\\DatabaseConnectionSingleton.cs",
-              "ViewState": "AQIAAB0AAAAAAAAAAAAwwA8AAAAJAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwCsAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-24T04:39:09.364Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IPaymentStrategy.cs",
-              "DocumentMoniker": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Strategy\\IPaymentStrategy.cs",
-              "RelativeDocumentMoniker": "Restuarant Management System DP\\Strategy\\IPaymentStrategy.cs",
-              "ToolTip": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Strategy\\IPaymentStrategy.cs",
-              "RelativeToolTip": "Restuarant Management System DP\\Strategy\\IPaymentStrategy.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T04:31:26.341Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "CashPayment.cs",
               "DocumentMoniker": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Strategy\\CashPayment.cs",
               "RelativeDocumentMoniker": "Restuarant Management System DP\\Strategy\\CashPayment.cs",
@@ -149,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Form1.cs",
               "RelativeDocumentMoniker": "Restuarant Management System DP\\Form1.cs",
@@ -161,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Menu.cs",
               "DocumentMoniker": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Menu.cs",
               "RelativeDocumentMoniker": "Restuarant Management System DP\\Menu.cs",
@@ -175,23 +196,49 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ConcreteDeal2Factory.cs",
+              "DocumentMoniker": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Abstract Factory\\Deal Factories\\ConcreteDeal2Factory.cs",
+              "RelativeDocumentMoniker": "Restuarant Management System DP\\Abstract Factory\\Deal Factories\\ConcreteDeal2Factory.cs",
+              "ToolTip": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Abstract Factory\\Deal Factories\\ConcreteDeal2Factory.cs",
+              "RelativeToolTip": "Restuarant Management System DP\\Abstract Factory\\Deal Factories\\ConcreteDeal2Factory.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T23:28:31.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPaymentStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Strategy\\IPaymentStrategy.cs",
+              "RelativeDocumentMoniker": "Restuarant Management System DP\\Strategy\\IPaymentStrategy.cs",
+              "ToolTip": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Strategy\\IPaymentStrategy.cs",
+              "RelativeToolTip": "Restuarant Management System DP\\Strategy\\IPaymentStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T04:31:26.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "PaymentWindow.cs [Design]",
               "DocumentMoniker": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\PaymentWindow.cs",
               "RelativeDocumentMoniker": "Restuarant Management System DP\\PaymentWindow.cs",
-              "ToolTip": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\PaymentWindow.cs [Design]*",
-              "RelativeToolTip": "Restuarant Management System DP\\PaymentWindow.cs [Design]*",
+              "ToolTip": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\PaymentWindow.cs [Design]",
+              "RelativeToolTip": "Restuarant Management System DP\\PaymentWindow.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-23T23:45:05.924Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "PaymentWindow.cs",
               "DocumentMoniker": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\PaymentWindow.cs",
               "RelativeDocumentMoniker": "Restuarant Management System DP\\PaymentWindow.cs",
-              "ToolTip": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\PaymentWindow.cs*",
-              "RelativeToolTip": "Restuarant Management System DP\\PaymentWindow.cs*",
+              "ToolTip": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\PaymentWindow.cs",
+              "RelativeToolTip": "Restuarant Management System DP\\PaymentWindow.cs",
               "ViewState": "AQIAABcAAABAMzMzMzMbwCgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-23T23:45:07.566Z",
@@ -199,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Form1.cs",
               "RelativeDocumentMoniker": "Restuarant Management System DP\\Form1.cs",
@@ -212,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Menu.Designer.cs",
               "DocumentMoniker": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Menu.Designer.cs",
               "RelativeDocumentMoniker": "Restuarant Management System DP\\Menu.Designer.cs",
@@ -225,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "ConcreteFreshOrangeJuice.cs",
               "DocumentMoniker": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Abstract Factory\\Concrete Beverages\\ConcreteFreshOrangeJuice.cs",
               "RelativeDocumentMoniker": "Restuarant Management System DP\\Abstract Factory\\Concrete Beverages\\ConcreteFreshOrangeJuice.cs",
@@ -238,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "IAbstractBeverageProduct.cs",
               "DocumentMoniker": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Abstract Factory\\IAbstractBeverageProduct.cs",
               "RelativeDocumentMoniker": "Restuarant Management System DP\\Abstract Factory\\IAbstractBeverageProduct.cs",
@@ -251,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "IAbstractPizzaProduct.cs",
               "DocumentMoniker": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Abstract Factory\\IAbstractPizzaProduct.cs",
               "RelativeDocumentMoniker": "Restuarant Management System DP\\Abstract Factory\\IAbstractPizzaProduct.cs",
@@ -264,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "ConcreteCheesePizza.cs",
               "DocumentMoniker": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Abstract Factory\\Concrete Pizzas\\ConcreteCheesePizza.cs",
               "RelativeDocumentMoniker": "Restuarant Management System DP\\Abstract Factory\\Concrete Pizzas\\ConcreteCheesePizza.cs",
@@ -277,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Menu.cs [Design]",
               "DocumentMoniker": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Menu.cs",
               "RelativeDocumentMoniker": "Restuarant Management System DP\\Menu.cs",
@@ -289,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "ConcreteDeal1Factory.cs",
               "DocumentMoniker": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Abstract Factory\\Deal Factories\\ConcreteDeal1Factory.cs",
               "RelativeDocumentMoniker": "Restuarant Management System DP\\Abstract Factory\\Deal Factories\\ConcreteDeal1Factory.cs",
@@ -302,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "ConcretePepproniPizza.cs",
               "DocumentMoniker": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Abstract Factory\\Concrete Pizzas\\ConcretePepproniPizza.cs",
               "RelativeDocumentMoniker": "Restuarant Management System DP\\Abstract Factory\\Concrete Pizzas\\ConcretePepproniPizza.cs",
@@ -315,7 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "ConcreteChickenTikka.cs",
               "DocumentMoniker": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Abstract Factory\\Concrete Pizzas\\ConcreteChickenTikka.cs",
               "RelativeDocumentMoniker": "Restuarant Management System DP\\Abstract Factory\\Concrete Pizzas\\ConcreteChickenTikka.cs",
@@ -328,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "Creator.cs",
               "DocumentMoniker": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Factory Method\\Creator.cs",
               "RelativeDocumentMoniker": "Restuarant Management System DP\\Factory Method\\Creator.cs",
@@ -340,7 +387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "ConcretePremiumCustomerCreator.cs",
               "DocumentMoniker": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Factory Method\\ConcretePremiumCustomerCreator.cs",
               "RelativeDocumentMoniker": "Restuarant Management System DP\\Factory Method\\ConcretePremiumCustomerCreator.cs",
@@ -352,7 +399,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "ConcretePremiumCustomer.cs",
               "DocumentMoniker": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Factory Method\\ConcretePremiumCustomer.cs",
               "RelativeDocumentMoniker": "Restuarant Management System DP\\Factory Method\\ConcretePremiumCustomer.cs",
@@ -364,7 +411,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "ConcreteRegularCustomer.cs",
               "DocumentMoniker": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Factory Method\\ConcreteRegularCustomer.cs",
               "RelativeDocumentMoniker": "Restuarant Management System DP\\Factory Method\\ConcreteRegularCustomer.cs",
@@ -376,7 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "ICustomerRegistration.cs",
               "DocumentMoniker": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Factory Method\\ICustomerRegistration.cs",
               "RelativeDocumentMoniker": "Restuarant Management System DP\\Factory Method\\ICustomerRegistration.cs",
@@ -388,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "ConcreteDeal3Factory.cs",
               "DocumentMoniker": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Abstract Factory\\Deal Factories\\ConcreteDeal3Factory.cs",
               "RelativeDocumentMoniker": "Restuarant Management System DP\\Abstract Factory\\Deal Factories\\ConcreteDeal3Factory.cs",
@@ -397,18 +444,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-23T23:29:05.12Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "ConcreteDeal2Factory.cs",
-              "DocumentMoniker": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Abstract Factory\\Deal Factories\\ConcreteDeal2Factory.cs",
-              "RelativeDocumentMoniker": "Restuarant Management System DP\\Abstract Factory\\Deal Factories\\ConcreteDeal2Factory.cs",
-              "ToolTip": "C:\\Users\\AAHIL ALWANI\\Desktop\\DP Project\\Restuarant-Management-DP\\Restuarant Management System DP\\Abstract Factory\\Deal Factories\\ConcreteDeal2Factory.cs",
-              "RelativeToolTip": "Restuarant Management System DP\\Abstract Factory\\Deal Factories\\ConcreteDeal2Factory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T23:28:31.289Z"
             }
           ]
         }
